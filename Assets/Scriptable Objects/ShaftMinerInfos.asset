@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c95ff7c5e63af34c9089610b8ed0e1f, type: 3}
+  m_Name: ShaftMinerInfos
+  m_EditorClassIdentifier: 
+  panelTitle: Mine Shaft
+  panelMinerIcon: {fileID: -8179040606652740800, guid: 624b4f3044ab1854781e1211b8819135,
+    type: 3}
+  stat1Title: Miners
+  stat2Title: Walk Speed
+  stat3Title: Mining Speed
+  stat4Title: Capacity
+  stat1Icon: {fileID: 1161201145128540330, guid: 624b4f3044ab1854781e1211b8819135,
+    type: 3}
+  stat2Icon: {fileID: 1202984965197363600, guid: 624b4f3044ab1854781e1211b8819135,
+    type: 3}
+  stat3Icon: {fileID: 2130535880278150251, guid: 624b4f3044ab1854781e1211b8819135,
+    type: 3}
+  stat4Icon: {fileID: 184950751378207249, guid: 624b4f3044ab1854781e1211b8819135,
+    type: 3}
