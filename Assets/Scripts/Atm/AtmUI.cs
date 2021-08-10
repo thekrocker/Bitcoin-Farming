@@ -19,7 +19,7 @@ public class AtmUI : MonoBehaviour
     {
         _atmUpgrade = GetComponent<ATMUpgrade>();
     }
-
+//
     public void OpenATMUpgradePanel()
     {
         OnUpgradeRequest?.Invoke(_atmUpgrade);
